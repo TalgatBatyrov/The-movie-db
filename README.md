@@ -1,16 +1,12 @@
-# the_movie_app
+<div align="start" >
+  <h2 align="start">Popular and well-known application. With the ability to search and a detailed description of films and actors.</h2>
+  <
+  <img width="24%"  src="https://user-images.githubusercontent.com/90198155/184470451-08316bda-2095-4081-90b3-05357117da19.jpg" alt="" />
 
-A new Flutter project.
+  <img width="24%"    src="https://user-images.githubusercontent.com/90198155/184470453-752d8d12-cbcb-43fc-b576-3cc4f91fe04c.jpg" alt="" />
+  
+  <img  width="24%"     src="https://user-images.githubusercontent.com/90198155/184470447-feebbf84-8f12-4724-8054-c275593ee6ce.jpg" alt="" />
+  <img width="24%"   src="https://user-images.githubusercontent.com/90198155/184470449-0bba6304-2710-4744-bafd-538441275a90.jpg" alt="" />
+</div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
